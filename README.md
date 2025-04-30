@@ -63,7 +63,8 @@ Version Control — Git for seamless collaboration and version tracking.
 
 I believe in collaboration and innovation. Feel free to fork this repo, improve a concept, or suggest new ones. Make sure your code follows PEP 8 guidelines, and submit your PRs!
 
-3 📝 License
+ # 📝 License
+ 
 This repository is licensed under the MIT License — see LICENSE for details
 
 # 🔗 Connect with Hikmat Khan
